@@ -1,11 +1,11 @@
 #### 一、 项目介绍
-基于SpringBoot Vue的校园志愿者管理系统
+基于SpringBoot Vue的网络海鲜市场系统
 
 角色：管理员、用户
 
-前台功能：用户进入系统可以实现首页、活动信息、活动心得、公告信息、交流反馈、个人中心、后台管理等功能进行操作；
+管理员：管理员对于网络海鲜市场系统操作的功能包括对商品资讯，用户信息，商品信息等进行增删改查，同时可以回复用户对商品的评价，以及管理商品订单和论坛帖子等
 
-后台由管理员和志愿者，主要功能包括首页、个人中心、志愿者管理、活动类型管理、活动信息管理、活动报名管理、活动通知管理、活动心得管理、交流反馈、系统管理等功能；
+用户：用户对于网络海鲜市场系统操作的功能包括在前台购买商品，管理收货地址，管理购买的商品信息，查看商品资讯，管理购物车等
 
 #### 二、项目技术
 后端： SpringBoot+Mybaits-Plus
@@ -26,19 +26,15 @@ JDK版本：1.8
 项目管理：Maven
 Node版本：14
 #### 四、运行截图（点图片可放大）
-<img width="1280" alt="2022-12-24_03-00-02" src="https://github.com/666bears/volunteer/assets/143094776/faa3d842-9679-4d65-be5a-c70cea9acf6e">
-![0](https://github.com<img width="1280" alt="2022-12-24_03-01-43" src="https://github.com/666bears/volunteer/assets/143094776/d9da1d5d-f408-43fe-970f-af216e2a6b6d">
-<img width="1280" alt="2022-12-24_03-01-33" src="https://github.com/666bears/volunteer/assets/143094776/ee98eebc-9491-4a33-80e1-ad121a3043a4">
-<img width="1280" alt="2022-12-24_03-01-27" src="https://github.com/666bears/volunteer/assets/143094776/8f2cda60-1c7f-41e4-9373-f7059c0398f3">
-<img width="1280" alt="2022-12-24_03-01-20" src="https://github.com/666bears/volunteer/assets/143094776/3dec8592-c471-4ce6-9d5b-7d74ac1322b6">
-<img width="1280" alt="2022-12-24_03-01-13" src="https://github.com/666bears/volunteer/assets/143094776/0e2d2242-46cd-4148-8951-f4f6da7495db">
-<img width="1280" alt="2022-12-24_03-01-00" src="https://github.com/666bears/volunteer/assets/143094776/25206282-fd11-4429-ad91-8b57ea61608d">
-<img width="1280" alt="2022-12-24_03-00-47" src="https://github.com/666bears/volunteer/assets/143094776/f9caf514-6264-4ae3-9ab8-cf4e74ba52b5">
-<img width="1280" alt="2022-12-24_03-00-36" src="https://github.com/666bears/volunteer/assets/143094776/af00bef8-7895-49e7-9310-e0eff4ef2d78">
-<img width="1280" alt="2022-12-24_03-00-26" src="https://github.com/666bears/volunteer/assets/143094776/588bf603-7238-45a2-b67c-ad589143744d">
-<img width="1280" alt="2022-12-24_03-00-15" src="https://github.com/666bears/volunteer/assets/143094776/584bf1fb-7afb-40a6-90a2-2dabef3f3913">
-/666bears/volunteer/assets/143094776/6f3adda9-e266-4757-931d-77af1b782873)
-![)FCMS647JW_OPO_AO`P`5S](https://github.com/666bears/volunteer/assets/143094776/e704ec2d-c202-4bb3-9dbd-2815032cee0a)
+![1692095729917](https://github.com/666bears/volunteer/assets/143094776/fb551d2a-8103-48a5-83e3-244b97c873fd)
+![1692095812583](https://github.com/666bears/volunteer/assets/143094776/ef823e3d-b4f1-472f-8f82-6ed51e964979)
+![1692095839369](https://github.com/666bears/volunteer/assets/143094776/ed7a6c0b-c991-4a4a-ac5d-a03ab9bb4525)
+![1692095860798](https://github.com/666bears/volunteer/assets/143094776/90ad8b75-481b-4907-9d78-ad87ae0316ac)
+![1692095879390](https://github.com/666bears/volunteer/assets/143094776/794bf552-bc5b-4ca5-ab72-d496e696f2fb)
+![1692095910495](https://github.com/666bears/volunteer/assets/143094776/1da92bf6-7b47-4066-bfca-82637cba3694)
+![1692095941398](https://github.com/666bears/volunteer/assets/143094776/7fa7064a-2074-4739-9fef-7c8e4ec56a72)
+![1692095970892](https://github.com/666bears/volunteer/assets/143094776/d96c4c93-6356-4d18-907b-115e6747dd09)
+![1692096029020](https://github.com/666bears/volunteer/assets/143094776/5df07715-9798-41ea-8a90-4418e9b7fe24)
 
 
 #### 五、安装教程
@@ -50,7 +46,7 @@ Node版本：14
 
 启动项目
 #### 六、获取地址
-#### 获取地址&视频演示：https://www.666bear.com/1853.html
+#### 获取地址&视频演示：https://www.666bear.com/2856.html
 
 #### 接毕业设计和论文
 #### 接网站建设、小程序、H5、APP、各种系统等
